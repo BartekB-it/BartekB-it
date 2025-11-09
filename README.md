@@ -20,6 +20,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **Incident Response Report (Potential Impossible Travel) - WIP**
 - **Incident Response Report (Excessive Resource Creation / Deletion) - WIP**
 
+## 🔎 Triage
+
+- **Workbooks - WIP**
+
 ## 🛠️ Tools
 
 - [**LogSniper - lightweight SIEM - WIP**](https://github.com/BartekB-it/LogSniper)
