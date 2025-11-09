@@ -11,6 +11,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **WIP**
 
+## 🛠️ Tools
+
+- [**LogSniper - lightweight SIEM**](https://github.com/BartekB-it/LogSniper)
+
 <hr/>
 
 ## 🤳 Connect With Me
