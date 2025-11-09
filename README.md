@@ -6,14 +6,31 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **Vulnerability Management Program Implementation - WIP**
+- **Vulnerability Remediation/STIGs - WIP**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting, Security Operations and Incident Response
 
-- **WIP**
+- **Threat Hunt Report (Unauthorized TOR Usage) - WIP**
+- **Threat Hunt Report (Devices Accidentally Exposed to the Internet) - WIP**
+- **Threat Hunt Report (Sudden Network Slowdowns) - WIP**
+- **Threat Hunt Report (Suspected Data Exfiltration Employee) - WIP**
+- **Threat Hunt Report (New Zero-Day Announced on News (PwnCrypt ransomware)) - WIP**
+- **Incident Response Report (Virtual Machine Brute Force Detection) - WIP**
+- **Incident Response Report (PowerShell Suspicious Web Request) - WIP**
+- **Incident Response Report (Potential Impossible Travel) - WIP**
+- **Incident Response Report (Excessive Resource Creation / Deletion) - WIP**
 
 ## 🛠️ Tools
 
 - [**LogSniper - lightweight SIEM - WIP**](https://github.com/BartekB-it/LogSniper)
+
+## 🎓 Google Cybersecurity Certificate Artifacts
+
+- **WIP**
+
+## 📈 CTF Tracker
+
+- [**CTF Tracker**](https://github.com/BartekB-it/ctf-tracker)
 
 <hr/>
 
