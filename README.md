@@ -12,7 +12,7 @@ Most of my "WIP" projects are more than draft ready - they just need to be polis
 
 ## 🚨 Threat Hunting, Security Operations and Incident Response
 
-- **Threat Hunt Report (Unauthorized TOR Usage) - WIP**
+- [**Threat Hunt Report (Unauthorized TOR Usage)**](https://github.com/BartekB-it/threat-hunting-scenario-tor/blob/main/README.md)
 - **Threat Hunt Report (Devices Accidentally Exposed to the Internet) - WIP**
 - **Threat Hunt Report (Sudden Network Slowdowns) - WIP**
 - **Threat Hunt Report (Suspected Data Exfiltration Employee) - WIP**
