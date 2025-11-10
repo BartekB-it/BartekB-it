@@ -2,6 +2,8 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+### ❗ Disclaimer ❗ 
+Most of my "WIP" projects are more than draft ready - they just need to be polished and published. I will publish most of them throughout this week (Nov 10–Nov 16).
 
 ## ⚠️ Vulnerability Management Projects
 
