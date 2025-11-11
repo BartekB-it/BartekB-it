@@ -15,13 +15,16 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **Vulnerability Remediation/STIGs - WIP**
 - **Workbooks - WIP**
 
-## 🚨 Threat Hunting, Security Operations and Incident Response
+## 🔎 Threat Hunting
 
 - [**Threat Hunt Report (Unauthorized TOR Usage)**](https://github.com/BartekB-it/threat-hunting-scenario-tor/blob/main/README.md)
 - **Threat Hunt Report (Devices Accidentally Exposed to the Internet) - WIP**
 - **Threat Hunt Report (Sudden Network Slowdowns) - WIP**
 - **Threat Hunt Report (Suspected Data Exfiltration Employee) - WIP**
 - **Threat Hunt Report (New Zero-Day Announced on News (PwnCrypt ransomware)) - WIP**
+
+## 🚨 Incident Response
+
 - **Incident Response Report (Virtual Machine Brute Force Detection) - WIP**
 - **Incident Response Report (PowerShell Suspicious Web Request) - WIP**
 - **Incident Response Report (Potential Impossible Travel) - WIP**
