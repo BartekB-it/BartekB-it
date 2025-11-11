@@ -2,13 +2,18 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-### ❗ Disclaimer ❗ 
-Most of my "WIP" projects are more than draft ready - they just need to be polished and published. I will publish most of them throughout this week (Nov 10–Nov 16).
+## Start Here!
 
-## ⚠️ Vulnerability Management Projects
+- [**Threat Hunt Report (Unauthorized TOR Usage)**](https://github.com/BartekB-it/threat-hunting-scenario-tor/blob/main/README.md)
+- [**LogSniper - lightweight SIEM - WIP**](https://github.com/BartekB-it/LogSniper)
+- [**CTF Tracker**](https://github.com/BartekB-it/ctf-tracker)
+
+## Shipping this week (Nov 10-16)
 
 - [**Vulnerability Management Program Implementation - WIP**](https://github.com/BartekB-it/vulnerability-management-program)
+- **Incident Response Report (Virtual Machine Brute Force Detection) - WIP**
 - **Vulnerability Remediation/STIGs - WIP**
+- **Workbooks - WIP**
 
 ## 🚨 Threat Hunting, Security Operations and Incident Response
 
@@ -22,29 +27,38 @@ Most of my "WIP" projects are more than draft ready - they just need to be polis
 - **Incident Response Report (Potential Impossible Travel) - WIP**
 - **Incident Response Report (Excessive Resource Creation / Deletion) - WIP**
 
-## 🔎 Triage
-
-- **Workbooks - WIP**
-
 ## 🛠️ Tools
 
 - [**LogSniper - lightweight SIEM - WIP**](https://github.com/BartekB-it/LogSniper)
 
-## 🎓 Google Cybersecurity Certificate Artifacts
+## 📖 SOC Workbooks Pack
 
-- **WIP**
+- **Workbooks - WIP**
 
-## 📈 CTF Tracker
+
+## ⚠️ Vulnerability Management Projects
+
+- [**Vulnerability Management Program Implementation - WIP**](https://github.com/BartekB-it/vulnerability-management-program)
+- **Vulnerability Remediation/STIGs - WIP**
+
+## 📈 CTF Tracker / Certs
 
 - [**CTF Tracker**](https://github.com/BartekB-it/ctf-tracker)
+- **Google Cybersecurity Certificate Artifacts - WIP**
 
 <hr/>
+
+### Disclaimer 
+Most of my "WIP" projects are more than draft ready - they just need to be polished and published. I will publish most of them throughout this week and next week (Nov 10–Nov 23).
 
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/bartłomiej-biskupiak
+
+<hr/>
+
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
