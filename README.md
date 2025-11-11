@@ -7,7 +7,7 @@ Most of my "WIP" projects are more than draft ready - they just need to be polis
 
 ## ⚠️ Vulnerability Management Projects
 
-- **Vulnerability Management Program Implementation - WIP**
+- [**Vulnerability Management Program Implementation - WIP**](https://github.com/BartekB-it/vulnerability-management-program)
 - **Vulnerability Remediation/STIGs - WIP**
 
 ## 🚨 Threat Hunting, Security Operations and Incident Response
