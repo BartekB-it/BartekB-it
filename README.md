@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - [**Vulnerability Management Program Implementation - WIP**](https://github.com/BartekB-it/vulnerability-management-program)
 - **Incident Response Report (Virtual Machine Brute Force Detection) - WIP**
-- **Vulnerability Remediation/STIGs - WIP**
+- [**Vulnerability Remediation/STIGs - WIP**](https://github.com/BartekB-it/STIGS)
 - **Workbooks - WIP**
 
 ## 🔎 Threat Hunting
@@ -42,7 +42,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - [**Vulnerability Management Program Implementation - WIP**](https://github.com/BartekB-it/vulnerability-management-program)
-- **Vulnerability Remediation/STIGs - WIP**
+- [**Vulnerability Remediation/STIGs - WIP**](https://github.com/BartekB-it/STIGS)
 
 ## 📈 CTF Tracker / Certs
 
