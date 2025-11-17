@@ -1,19 +1,19 @@
 # <a href="https://www.linkedin.com/in/bartłomiej-biskupiak">Bartłomiej Biskupiak</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
 ## Start Here!
 
+- [**Vulnerability Management Program Implementation**](https://github.com/BartekB-it/vulnerability-management-program)
+- [**Windows 11 STIG Remediation Scripts**](https://github.com/BartekB-it/STIGS)
 - [**Threat Hunt Report (Unauthorized TOR Usage)**](https://github.com/BartekB-it/threat-hunting-scenario-tor/blob/main/README.md)
 - [**LogSniper - lightweight SIEM - WIP**](https://github.com/BartekB-it/LogSniper)
 - [**CTF Tracker**](https://github.com/BartekB-it/ctf-tracker)
 
-## Shipping this week (Nov 10-16)
+## 📅 Current Focus (Nov 2025)
 
-- [**Vulnerability Management Program Implementation - WIP**](https://github.com/BartekB-it/vulnerability-management-program)
-- **Incident Response Report (Virtual Machine Brute Force Detection) - WIP**
-- [**Vulnerability Remediation/STIGs - WIP**](https://github.com/BartekB-it/STIGS)
-- **Workbooks - WIP**
+- ✅ **Vulnerability Management Program Implementation** – end-to-end pilot implementation (policy → scans → CAB → remediations → metrics) completed
+- ✅ **Windows 11 STIG Remediation Scripts** - initial pack of remediation scripts published, expanding coverage
+- 🛠️ **Incident Response Report (Virtual Machine Brute Force Detection)** - WIP
+- 🛠️ **SOC Workbooks Pack** - WIP
 
 ## 🔎 Threat Hunting
 
@@ -38,11 +38,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **Workbooks - WIP**
 
-
 ## ⚠️ Vulnerability Management Projects
 
-- [**Vulnerability Management Program Implementation - WIP**](https://github.com/BartekB-it/vulnerability-management-program)
-- [**Vulnerability Remediation/STIGs - WIP**](https://github.com/BartekB-it/STIGS)
+- [**Vulnerability Management Program Implementation**](https://github.com/BartekB-it/vulnerability-management-program)
+- [**Vulnerability Remediation/STIGs**](https://github.com/BartekB-it/STIGS)
 
 ## 📈 CTF Tracker / Certs
 
@@ -66,21 +65,4 @@ Most of my "WIP" projects are more than draft ready - they just need to be polis
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
-
-
-
-<!--
-**BartekB-it/BartekB-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
