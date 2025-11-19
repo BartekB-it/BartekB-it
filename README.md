@@ -2,6 +2,7 @@
 
 ## Start Here!
 
+- [**Incident Response Report (Virtual Machine Brute Force Detection)**](https://github.com/BartekB-it/soc-incident-reponse-cases/tree/main/brute-force-azure-vm)
 - [**Vulnerability Management Program Implementation**](https://github.com/BartekB-it/vulnerability-management-program)
 - [**Windows 11 STIG Remediation Scripts**](https://github.com/BartekB-it/STIGS)
 - [**Threat Hunt Report (Unauthorized TOR Usage)**](https://github.com/BartekB-it/threat-hunting-scenario-tor/blob/main/README.md)
@@ -10,9 +11,9 @@
 
 ## 📅 Current Focus (Nov 2025)
 
-- ✅ **Vulnerability Management Program Implementation** – end-to-end pilot implementation (policy → scans → CAB → remediations → metrics) completed
+- ✅ **Vulnerability Management Program Implementation** - end-to-end pilot implementation (policy → scans → CAB → remediations → metrics) completed
 - ✅ **Windows 11 STIG Remediation Scripts** - initial pack of remediation scripts published, expanding coverage
-- 🛠️ **Incident Response Report (Virtual Machine Brute Force Detection)** - WIP
+- ✅ **Incident Response Report (Virtual Machine Brute Force Detection)** - investigation steps with Findings, Recommended Improvements & MITRE ATT&CK Mapping
 - 🛠️ **SOC Workbooks Pack** - WIP
 
 ## 🔎 Threat Hunting
@@ -25,7 +26,7 @@
 
 ## 🚨 Incident Response
 
-- **Incident Response Report (Virtual Machine Brute Force Detection) - WIP**
+- [**Incident Response Report (Virtual Machine Brute Force Detection)**](https://github.com/BartekB-it/soc-incident-reponse-cases/tree/main/brute-force-azure-vm)
 - **Incident Response Report (PowerShell Suspicious Web Request) - WIP**
 - **Incident Response Report (Potential Impossible Travel) - WIP**
 - **Incident Response Report (Excessive Resource Creation / Deletion) - WIP**
