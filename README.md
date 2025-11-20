@@ -14,7 +14,7 @@ Hands-on blue-team work: vulnerability management, Windows hardening, SOC-style 
 
 - ✅ **Vulnerability Management Program Implementation** - end-to-end pilot implementation (policy → scans → CAB → remediations → metrics) completed
 - ✅ **Windows 11 STIG Remediation Scripts** - initial pack of remediation scripts published, expanding coverage
-- ✅ **Incident Response Report (Virtual Machine Brute Force Detection)** - investigation steps with Findings, Recommended Improvements & MITRE ATT&CK Mapping
+- ✅ **Incident Response (Virtual Machine Brute Force Detection, PowerShell Suspicious Web Request)** - lab incidents written up with KQL, timeline, findings & MITRE mapping
 - 🛠️ **SOC Workbooks Pack** - WIP
 
 ## 🔎 Threat Hunting
