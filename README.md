@@ -53,7 +53,7 @@ Hands-on blue-team work: vulnerability management, Windows hardening, SOC-style 
 <hr/>
 
 ### Disclaimer 
-Most of my "WIP" projects are more than draft ready - they just need to be polished and published. I will publish most of them throughout this week and next week (Nov 10–Nov 23).
+Most of my "WIP" projects are already in lab-notes form – I’m gradually polishing and publishing them as public artifacts.
 
 ## 🤳 Connect With Me
 
