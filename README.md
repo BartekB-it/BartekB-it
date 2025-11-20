@@ -1,13 +1,14 @@
 # <a href="https://www.linkedin.com/in/bartłomiej-biskupiak">Bartłomiej Biskupiak</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-## Start Here!
+Hands-on blue-team work: vulnerability management, Windows hardening, SOC-style investigations (Sentinel + Defender), OSINT/CTI volunteering and a lightweight SIEM/log parser.
 
+## 🚀 Start Here!
+
+- [**Incident Response Report (PowerShell Suspicious Web Request)**](https://github.com/BartekB-it/soc-incident-reponse-cases/tree/main/suspicious-powershell-web-request)
 - [**Incident Response Report (Virtual Machine Brute Force Detection)**](https://github.com/BartekB-it/soc-incident-reponse-cases/tree/main/brute-force-azure-vm)
 - [**Vulnerability Management Program Implementation**](https://github.com/BartekB-it/vulnerability-management-program)
 - [**Windows 11 STIG Remediation Scripts**](https://github.com/BartekB-it/STIGS)
-- [**Threat Hunt Report (Unauthorized TOR Usage)**](https://github.com/BartekB-it/threat-hunting-scenario-tor/blob/main/README.md)
 - [**LogSniper - lightweight SIEM - WIP**](https://github.com/BartekB-it/LogSniper)
-- [**CTF Tracker**](https://github.com/BartekB-it/ctf-tracker)
 
 ## 📅 Current Focus (Nov 2025)
 
@@ -27,7 +28,7 @@
 ## 🚨 Incident Response
 
 - [**Incident Response Report (Virtual Machine Brute Force Detection)**](https://github.com/BartekB-it/soc-incident-reponse-cases/tree/main/brute-force-azure-vm)
-- **Incident Response Report (PowerShell Suspicious Web Request) - WIP**
+- [**Incident Response Report (PowerShell Suspicious Web Request - Azure VM)**](https://github.com/BartekB-it/soc-incident-reponse-cases/tree/main/suspicious-powershell-web-request)
 - **Incident Response Report (Potential Impossible Travel) - WIP**
 - **Incident Response Report (Excessive Resource Creation / Deletion) - WIP**
 
