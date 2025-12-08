@@ -6,56 +6,68 @@ Hands-on blue-team work: vulnerability management, Windows hardening, SOC-style 
 
 - [**Incident Response Report (PowerShell Suspicious Web Request)**](https://github.com/BartekB-it/soc-incident-reponse-cases/tree/main/suspicious-powershell-web-request)
 - [**Incident Response Report (Virtual Machine Brute Force Detection)**](https://github.com/BartekB-it/soc-incident-reponse-cases/tree/main/brute-force-azure-vm)
+- [**Threat Hunt Report (Unauthorized TOR Usage)**](https://github.com/BartekB-it/threat-hunting-scenario-tor/blob/main/README.md)
 - [**Vulnerability Management Program Implementation**](https://github.com/BartekB-it/vulnerability-management-program)
-- [**Windows 11 STIG Remediation Scripts**](https://github.com/BartekB-it/STIGS)
-- [**LogSniper - lightweight SIEM - WIP**](https://github.com/BartekB-it/LogSniper)
+- [**LogSniper - lightweight SIEM / log parser**](https://github.com/BartekB-it/LogSniper)
 
-## 📅 Current Focus (Nov 2025)
+---
 
-- ✅ **Vulnerability Management Program Implementation** - end-to-end pilot implementation (policy → scans → CAB → remediations → metrics) completed
-- ✅ **Windows 11 STIG Remediation Scripts** - initial pack of remediation scripts published, expanding coverage
-- ✅ **Incident Response (Virtual Machine Brute Force Detection, PowerShell Suspicious Web Request)** - lab incidents written up with KQL, timeline, findings & MITRE mapping
-- 🛠️ **SOC Workbooks Pack** - WIP
+## 📅 Current Focus (Dec 2025)
 
-## 🔎 Threat Hunting
+- 🔭 **LogSniper** – refactor & documentation of the detection engine (rules explained, tuned and tested).
+- 🧪 **SOC L1 prep** – blue-team labs, KQL practice and interview preparation.
+
+---
+
+## 🔎 Threat Hunting & Incident Response
 
 - [**Threat Hunt Report (Unauthorized TOR Usage)**](https://github.com/BartekB-it/threat-hunting-scenario-tor/blob/main/README.md)
-- **Threat Hunt Report (Devices Accidentally Exposed to the Internet) - WIP**
-- **Threat Hunt Report (Sudden Network Slowdowns) - WIP**
-- **Threat Hunt Report (Suspected Data Exfiltration Employee) - WIP**
-- **Threat Hunt Report (New Zero-Day Announced on News (PwnCrypt ransomware)) - WIP**
-
-## 🚨 Incident Response
-
 - [**Incident Response Report (Virtual Machine Brute Force Detection)**](https://github.com/BartekB-it/soc-incident-reponse-cases/tree/main/brute-force-azure-vm)
 - [**Incident Response Report (PowerShell Suspicious Web Request - Azure VM)**](https://github.com/BartekB-it/soc-incident-reponse-cases/tree/main/suspicious-powershell-web-request)
-- **Incident Response Report (Potential Impossible Travel) - WIP**
-- **Incident Response Report (Excessive Resource Creation / Deletion) - WIP**
 
-## 🛠️ Tools
+---
 
-- [**LogSniper - lightweight SIEM - WIP**](https://github.com/BartekB-it/LogSniper)
-
-## 📖 SOC Workbooks Pack
-
-- **Workbooks - WIP**
-
-## ⚠️ Vulnerability Management Projects
+## 🛡️ Vulnerability Management & Hardening
 
 - [**Vulnerability Management Program Implementation**](https://github.com/BartekB-it/vulnerability-management-program)
-- [**Vulnerability Remediation/STIGs**](https://github.com/BartekB-it/STIGS)
+- [**Vulnerability 11 STIG Remediation Scripts**](https://github.com/BartekB-it/STIGS)
 
-## 📈 CTF Tracker / Certs
+---
+
+## 🧩 Detection & Tools
+
+- [**LogSniper - lightweight SIEM / log parser**](https://github.com/BartekB-it/LogSniper)
+
+---
+
+## 🧪 Public-Sector Security Prototypes (Hackathon)
+
+Built during a 24-hour national hackathon focused on fighting online disinformation and phishing targeting Polish citizens.
+
+- [**Prawda w sieci - Verifier (gov.pl URL & QR checker)**](https://github.com/BartekB-it/prawda-w-sieci-verifier)
+  Security-focused backend + frontend prototype for an mObywatel-style module that checks whether a link or QR code claiming to be `gov.pl` site is actually trustworthy.
+  The Verifier:
+  - validates the domain against an allow-list of trusted gov.pl resources,
+  - enforces HTTPS/TLS and inspects certificates,
+  - follows redirects to detect suspicious destinations,
+  - returns a clear "trusted / suspicious" verdict that could be shown in a mobile app.
+ 
+- [**Prawda w sieci - Trusted gov.pl QR generator widget**](https://github.com/BartekB-it/qr-generator)
+  Small frontend widget styled after gov.pl / mObywatel that generates QR codes only for trusted `gov.pl` URLs.
+  It is designed to work together with the Verifier:
+  office generates a QR code -> citizen scans it in the app -> the Verifier checks the URL and shows wheter the page is legitimate.
+
+*These were rapid prototypes built with heavy AI assistance - our focus was on the security design, threat model and user flow.*
+
+---
+
+## 🎯 Other
 
 - [**CTF Tracker**](https://github.com/BartekB-it/ctf-tracker)
-- **Google Cybersecurity Certificate Artifacts - WIP**
 
 <hr/>
 
-### Disclaimer 
-Most of my "WIP" projects are already in lab-notes form – I’m gradually polishing and publishing them as public artifacts.
-
-## 🤳 Connect With Me
+### 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
