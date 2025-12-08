@@ -45,17 +45,15 @@ Hands-on blue-team work: vulnerability management, Windows hardening, SOC-style 
 Built during a 24-hour national hackathon focused on fighting online disinformation and phishing targeting Polish citizens.
 
 - [**Prawda w sieci - Verifier (gov.pl URL & QR checker)**](https://github.com/BartekB-it/prawda-w-sieci-verifier)
-  Security-focused backend + frontend prototype for an mObywatel-style module that checks whether a link or QR code claiming to be `gov.pl` site is actually trustworthy.
-  The Verifier:
-  - validates the domain against an allow-list of trusted gov.pl resources,
-  - enforces HTTPS/TLS and inspects certificates,
-  - follows redirects to detect suspicious destinations,
-  - returns a clear "trusted / suspicious" verdict that could be shown in a mobile app.
+  Web app + backend prototype that lets a user paste a link or scan a QR code claiming to be a `gov.pl` page and get a clear “trusted / expired / invalid”-style verdict.  
+  Focus on:
+  - server-side session / token checks instead of trusting the raw QR,
+  - simple validation and basic input hardening to reduce obvious abuse.
  
 - [**Prawda w sieci - Trusted gov.pl QR generator widget**](https://github.com/BartekB-it/qr-generator)
-  Small frontend widget styled after gov.pl / mObywatel that generates QR codes only for trusted `gov.pl` URLs.
-  It is designed to work together with the Verifier:
-  office generates a QR code -> citizen scans it in the app -> the Verifier checks the URL and shows wheter the page is legitimate.
+  Small widget (gov.pl / mObywatel style) for offices to generate time-limited QR codes only for approved `gov.pl` URLs.  
+  Designed to work together with the Verifier:  
+  office generates QR → citizen scans in the app → Verifier checks the backend entry and shows whether the page is legitimate.
 
 *These were rapid prototypes built with heavy AI assistance - our focus was on the security design, threat model and user flow.*
 
