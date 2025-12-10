@@ -14,8 +14,8 @@ Hands-on blue-team work: vulnerability management, Windows hardening, SOC-style 
 
 ## 📅 Current Focus (Dec 2025)
 
-- 🔭 **LogSniper** – refactor & documentation of the detection engine (rules explained, tuned and tested).
-- 🧪 **SOC L1 prep** – blue-team labs, KQL practice and interview preparation.
+- 🔭 **LogSniper** - refactor & documentation of the detection engine (rules explained, tuned and tested).
+- 🧪 **SOC L1 prep** - blue-team labs, KQL practice and interview preparation.
 
 ---
 
