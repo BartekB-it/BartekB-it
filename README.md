@@ -61,7 +61,7 @@ Built during a 24-hour national hackathon focused on fighting online disinformat
 
 ## 🎯 Other
 
-- [**CTF Tracker**](https://github.com/BartekB-it/ctf-tracker)
+- [**CTF Tracker**](https://github.com/BartekB-it/ctf-tracker/blob/main/CTF_Tracker.md)
 
 <hr/>
 
