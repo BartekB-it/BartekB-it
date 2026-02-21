@@ -17,7 +17,7 @@ Hands-on blue-team work: vulnerability management, Windows hardening, SOC-style 
 
 - 🔭 **LinTriage** - Developing a Bash-based counterpart to WinTriage for rapid Linux forensic collection.
 - 🧪 **SC-200 Mastery** - Intensive study on Microsoft Sentinel, KQL, and all the Defenders.
-- 🚩 **CTF Training** - Participating in solo and team-based Blue Team CTFs to sharpen investigation skills.
+- 🚩 **CTF Training** - Participating in solo and team-based CTFs to sharpen investigation skills.
 ---
 
 ## 🔎 Threat Hunting & Incident Response
