@@ -1,9 +1,10 @@
-# <a href="https://www.linkedin.com/in/bartłomiej-biskupiak">Bartłomiej Biskupiak</a>'s IT and Cybersecurity Project Portfolio 🔐
+[# <a href="https://www.linkedin.com/in/bartłomiej-biskupiak">Bartłomiej Biskupiak</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 Hands-on blue-team work: vulnerability management, Windows hardening, SOC-style investigations (Sentinel + Defender), OSINT/CTI volunteering and a lightweight SIEM/log parser.
 
 ## 🚀 Start Here!
 
+- [**WinTriage v0.4 - lighweight PS triage script for rapid IR**](https://github.com/BartekB-it/WinTriage)
 - [**Incident Response Report (PowerShell Suspicious Web Request)**](https://github.com/BartekB-it/soc-incident-reponse-cases/tree/main/suspicious-powershell-web-request)
 - [**Incident Response Report (Virtual Machine Brute Force Detection)**](https://github.com/BartekB-it/soc-incident-reponse-cases/tree/main/brute-force-azure-vm)
 - [**Threat Hunt Report (Unauthorized TOR Usage)**](https://github.com/BartekB-it/threat-hunting-scenario-tor/blob/main/README.md)
@@ -12,11 +13,11 @@ Hands-on blue-team work: vulnerability management, Windows hardening, SOC-style 
 
 ---
 
-## 📅 Current Focus (Dec 2025)
+## 📅 Current Focus (Feb 2026)
 
-- 🔭 **LogSniper** - refactor & documentation of the detection engine (rules explained, tuned and tested).
-- 🧪 **SOC L1 prep** - blue-team labs, KQL practice and interview preparation.
-
+- 🔭 **LinTriage** - Developing a Bash-based counterpart to WinTriage for rapid Linux forensic collection.
+- 🧪 **SC-200 Mastery** - Intensive study on Microsoft Sentinel, KQL, and all the Defenders.
+- 🚩 **CTF Training** - Participating in solo and team-based Blue Team CTFs to sharpen investigation skills.
 ---
 
 ## 🔎 Threat Hunting & Incident Response
@@ -36,6 +37,7 @@ Hands-on blue-team work: vulnerability management, Windows hardening, SOC-style 
 
 ## 🧩 Detection & Tools
 
+- [**WinTriage v0.4 - lighweight PS triage script for rapid IR**](https://github.com/BartekB-it/WinTriage)
 - [**LogSniper - lightweight SIEM / log parser**](https://github.com/BartekB-it/LogSniper)
 
 ---
@@ -78,3 +80,4 @@ Built during a 24-hour national hackathon focused on fighting online disinformat
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+](https://github.com/BartekB-it/WinTriage)
