@@ -1,4 +1,4 @@
-[# <a href="https://www.linkedin.com/in/bartłomiej-biskupiak">Bartłomiej Biskupiak</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/bartłomiej-biskupiak">Bartłomiej Biskupiak</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 Hands-on blue-team work: vulnerability management, Windows hardening, SOC-style investigations (Sentinel + Defender), OSINT/CTI volunteering and a lightweight SIEM/log parser.
 
@@ -80,4 +80,3 @@ Built during a 24-hour national hackathon focused on fighting online disinformat
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
-](https://github.com/BartekB-it/WinTriage)
