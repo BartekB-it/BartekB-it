@@ -15,7 +15,7 @@ Hands-on blue-team work: vulnerability management, Windows hardening, SOC-style 
 
 ## 📅 Current Focus (Aug 2026)
 
-- Making a blog to make some blog posts about topics I am currently learning and improving in.
+- Making a blog to share my knowledge on the topics I am currently learning on and improving in.
 
 ---
 
