@@ -13,11 +13,10 @@ Hands-on blue-team work: vulnerability management, Windows hardening, SOC-style 
 
 ---
 
-## 📅 Current Focus (Feb 2026)
+## 📅 Current Focus (Aug 2026)
 
-- 🔭 **LinTriage** - Developing a Bash-based counterpart to WinTriage for rapid Linux forensic collection.
-- 🧪 **SC-200 Mastery** - Intensive study on Microsoft Sentinel, KQL, and all the Defenders.
-- 🚩 **CTF Training** - Participating in solo and team-based CTFs to sharpen investigation skills.
+- Making a blog to make some blog posts about topics I am currently learning and improving in.
+
 ---
 
 ## 🔎 Threat Hunting & Incident Response
